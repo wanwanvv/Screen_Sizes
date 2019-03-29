@@ -62,8 +62,8 @@
         <activity android:name=".MsgActivity" >
 
         </activity>
-        <activity android:name=".FirstLoginActivity" />
-        <activity android:name=".LaunchActivity" >
+        <activity android:name=".LaunchActivity" />
+        <activity android:name=".FirstLoginActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
